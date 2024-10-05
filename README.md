@@ -2,15 +2,19 @@
     <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" style="height: 35px; margin-right: 10px; ">
     Olá, eu sou maiconVegas!
 </h1>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 <img src="https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png" style="display: block; margin: 0 auto;">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
 
 ## Sobre mim
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="code">
 <p align="left">🧑‍💻 Eu me chamo Maicon Edson e sou um <b>Desenvolvedor de Software</b> e <b>Game Developer</b> de São Paulo, SP.</p>
 <p align="left">🖥️ No momento, estou cursando <b>Análise e Desenvolvimento de Sistemas</b> na <b>Faculdade de Tecnologia de São Paulo (FATEC-SP)</b> e sou bolsista em outros cursos profissionalizantes.</p>
 <p align="left">🚀 Meu objetivo é utilizar meus conhecimentos e habilidades para resolver problemas e contribuir com uso da <b>tecnologia</b> e da <b>inovação</b>.</p>
+
+![](https://komarev.com/ghpvc/?username=maiconVegas&style=for-the-badge)
 
 ## Principais Tecnologias
 Aqui estão algumas das tecnologias com as quais trabalho:
